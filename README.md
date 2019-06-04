@@ -23,6 +23,15 @@ This repository contents:
 
 - Mbed compiler available in: https://os.mbed.com/handbook/mbed-Compiler
 - Arduino IDE 1.6.1
+# How install
+- Load Slave.ino  from arduino available in SCR on microcontroller slave atmega328p
+-  Load anyothers file whit extention .cpp on the Mbed from mbed compiler
+
+# How run
+
+- Conect the battery.
+- Press botton 2 and calibrate, when the leds that are ubicated under motors  turn off it the turbine going to turn on.
+- press botton 2 and wait for 3 seconds for the start of the robot, also you can start the robot whit a IR Control.
 
 
 # Autors
