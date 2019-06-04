@@ -23,11 +23,11 @@ This repository contents:
 
 - Mbed compiler available in: https://os.mbed.com/handbook/mbed-Compiler
 - Arduino IDE 1.6.1
-# How install
+# How to install
 - Load Slave.ino  from arduino available in SCR on microcontroller slave atmega328p
 -  Load anyothers file whit extention .cpp on the Mbed from mbed compiler
 
-# How run
+# How to run
 
 - Conect the battery.
 - Press botton 2 and calibrate, when the leds that are ubicated under motors  turn off it the turbine going to turn on.
